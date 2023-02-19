@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: black;
+    transition: 1.5s;
 }
 .main{
     width: 100%;
@@ -37,4 +37,5 @@ button{
     border-radius: 13px;
     background-color: rgb(38, 38, 59);
     color: white;
+    cursor: pointer;
 }
